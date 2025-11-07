@@ -5,3 +5,4 @@ CIPAR-10
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/savannahshannon/bias/blob/main/bias.ipynb)
 
 CIPAR-100
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/savannahshannon/bias/blob/main/cipar100.ipynb)
